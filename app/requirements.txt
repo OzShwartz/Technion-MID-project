@@ -1,0 +1,5 @@
+Flask==2.3.0
+boto3
+yfinance==0.2.43
+numpy==1.24.3
+scikit-learn==1.3.0
